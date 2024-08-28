@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/dj-proslave-web/static/css/main.42a46be8.css",
-    "main.js": "/dj-proslave-web/static/js/main.a1bfb332.js",
+    "main.css": "/dj-proslave-web/static/css/main.8faa479a.css",
+    "main.js": "/dj-proslave-web/static/js/main.f96746bc.js",
     "static/js/453.a9036b3a.chunk.js": "/dj-proslave-web/static/js/453.a9036b3a.chunk.js",
     "static/media/dj-vjencanja.webp": "/dj-proslave-web/static/media/dj-vjencanja.b23973fc92755b21d79b.webp",
     "static/media/closeup-dj-working-blue-light.webp": "/dj-proslave-web/static/media/closeup-dj-working-blue-light.941a52c7dbd512cd6f6a.webp",
@@ -31,17 +31,19 @@
     "static/media/gallery01.webp": "/dj-proslave-web/static/media/gallery01.b84f1430fe5e1dc28f66.webp",
     "static/media/gallery07.webp": "/dj-proslave-web/static/media/gallery07.b84f1430fe5e1dc28f66.webp",
     "static/media/dj-playing-music-mixer.webp": "/dj-proslave-web/static/media/dj-playing-music-mixer.cb59c955150b29d196e9.webp",
+    "static/media/hero-img3.webp": "/dj-proslave-web/static/media/hero-img3.4525566ceba330dbb3b1.webp",
     "static/media/gallery02.webp": "/dj-proslave-web/static/media/gallery02.c60a0b0fbd2ef4794b52.webp",
     "static/media/gallery08.webp": "/dj-proslave-web/static/media/gallery08.c60a0b0fbd2ef4794b52.webp",
     "static/media/photogallery-bg.svg": "/dj-proslave-web/static/media/photogallery-bg.9adc4882235a565cc874.svg",
     "static/media/logo.png": "/dj-proslave-web/static/media/logo.14c458aefb5e60632c5d.png",
+    "static/media/hero-img2.webp": "/dj-proslave-web/static/media/hero-img2.940a170261963f96203b.webp",
     "index.html": "/dj-proslave-web/index.html",
-    "main.42a46be8.css.map": "/dj-proslave-web/static/css/main.42a46be8.css.map",
-    "main.a1bfb332.js.map": "/dj-proslave-web/static/js/main.a1bfb332.js.map",
+    "main.8faa479a.css.map": "/dj-proslave-web/static/css/main.8faa479a.css.map",
+    "main.f96746bc.js.map": "/dj-proslave-web/static/js/main.f96746bc.js.map",
     "453.a9036b3a.chunk.js.map": "/dj-proslave-web/static/js/453.a9036b3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42a46be8.css",
-    "static/js/main.a1bfb332.js"
+    "static/css/main.8faa479a.css",
+    "static/js/main.f96746bc.js"
   ]
 }
