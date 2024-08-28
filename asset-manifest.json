@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/dj-proslave-web/static/css/main.48c0ee63.css",
+    "main.css": "/dj-proslave-web/static/css/main.42a46be8.css",
     "main.js": "/dj-proslave-web/static/js/main.a1bfb332.js",
     "static/js/453.a9036b3a.chunk.js": "/dj-proslave-web/static/js/453.a9036b3a.chunk.js",
-    "static/media/hero-img.png": "/dj-proslave-web/static/media/hero-img.45f47069e0b611022351.png",
     "static/media/dj-vjencanja.webp": "/dj-proslave-web/static/media/dj-vjencanja.b23973fc92755b21d79b.webp",
     "static/media/closeup-dj-working-blue-light.webp": "/dj-proslave-web/static/media/closeup-dj-working-blue-light.941a52c7dbd512cd6f6a.webp",
     "static/media/gallery06.jpg": "/dj-proslave-web/static/media/gallery06.bcbbef3ae52118d06b05.jpg",
@@ -18,6 +17,7 @@
     "static/media/gallery10.jpg": "/dj-proslave-web/static/media/gallery10.c6d3a308e0943d8820c6.jpg",
     "static/media/gallery06.webp": "/dj-proslave-web/static/media/gallery06.2cd6ea653b50f7d747c8.webp",
     "static/media/gallery12.webp": "/dj-proslave-web/static/media/gallery12.2cd6ea653b50f7d747c8.webp",
+    "static/media/hero-img.webp": "/dj-proslave-web/static/media/hero-img.fe9b6a7d3bcf6470c993.webp",
     "static/media/gallery01.jpg": "/dj-proslave-web/static/media/gallery01.5e8991dc8136fc4abac9.jpg",
     "static/media/gallery07.jpg": "/dj-proslave-web/static/media/gallery07.5e8991dc8136fc4abac9.jpg",
     "static/media/gallery03.webp": "/dj-proslave-web/static/media/gallery03.f280bda5b75df701c283.webp",
@@ -36,12 +36,12 @@
     "static/media/photogallery-bg.svg": "/dj-proslave-web/static/media/photogallery-bg.9adc4882235a565cc874.svg",
     "static/media/logo.png": "/dj-proslave-web/static/media/logo.14c458aefb5e60632c5d.png",
     "index.html": "/dj-proslave-web/index.html",
-    "main.48c0ee63.css.map": "/dj-proslave-web/static/css/main.48c0ee63.css.map",
+    "main.42a46be8.css.map": "/dj-proslave-web/static/css/main.42a46be8.css.map",
     "main.a1bfb332.js.map": "/dj-proslave-web/static/js/main.a1bfb332.js.map",
     "453.a9036b3a.chunk.js.map": "/dj-proslave-web/static/js/453.a9036b3a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.48c0ee63.css",
+    "static/css/main.42a46be8.css",
     "static/js/main.a1bfb332.js"
   ]
 }
